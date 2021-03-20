@@ -1,2 +1,3 @@
-git-ria text file
+ria text file
 on the github repository
+working with git gui&
