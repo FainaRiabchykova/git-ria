@@ -1,3 +1,9 @@
 ria text file
 on the github repository
 working with git gui&
+
+working with undoing reset
+and here one more changes
+
+content for pushing to github
+-----------------------------
