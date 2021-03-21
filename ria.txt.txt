@@ -1,6 +1,6 @@
 ria text file
 on the github repository
-working with git gui&
+
 
 content for new branch -feature
 -------------------------------
