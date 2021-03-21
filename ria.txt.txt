@@ -6,3 +6,5 @@ content for new branch -feature
 -------------------------------
 another content  for new branch -feature
 ----------------------------------------
+content for conflict solving
+---------------------------- 
