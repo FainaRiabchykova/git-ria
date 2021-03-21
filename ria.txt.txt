@@ -6,3 +6,5 @@ content for new branch -feature
 -------------------------------
 another content  for new branch -feature
 ----------------------------------------
+adding conflicting content in feature branch
+============================================
